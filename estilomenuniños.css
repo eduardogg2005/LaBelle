@@ -1,0 +1,21 @@
+body {
+    background-color: #ffda9e;
+}
+
+header{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: #ebb27d;
+}
+
+nav a{
+    color: rgb(0, 0, 0);
+}
+
+h3{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    border-radius: 10%;
+}

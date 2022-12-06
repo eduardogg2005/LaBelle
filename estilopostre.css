@@ -1,0 +1,20 @@
+body {
+    background-color: #ffda9e;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: #ebb27d;
+}
+
+nav a{
+    color: rgb(0, 0, 0);
+}
+
+h3{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    border-radius: 10%;
+}
